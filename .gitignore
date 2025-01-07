@@ -1,0 +1,47 @@
+# Ignore virtual environment directory
+.venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data directory (unless you want to track the dataset)
+data/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore IDE configuration files (e.g., PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Ignore operating system specific files
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# Ignore the virtual environment if stored elsewhere
+venv/
+
+# Ignore system files created by Python packaging tools
+*.egg-info/
+*.dist-info/
+*.egg
+
+# Ignore requirements.txt if you plan to regenerate it
+# (typically, you'll want to keep this file)
+# requirements.txt
+
+# Ignore notebook output files
+*.out
+*.aux
