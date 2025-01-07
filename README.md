@@ -61,6 +61,10 @@ The dataset used in this project is the **Credit Card Fraud Detection dataset** 
 The model predicts fraud based on transaction details, and you can visualize the results with the `visualize.py` script. The output will include:
 - **Fraudulent transactions** detected by the model.
 - **Model evaluation** metrics such as precision, recall, and F1-score.
+  
+ ![Figure_1](https://github.com/user-attachments/assets/c553b8fd-5206-4d68-b21f-6be908f48acc)
+
+ ![Figure_2](https://github.com/user-attachments/assets/a1e8994c-0e7e-4efe-a547-39a014ba7513)
 
 ### Dependencies
 
